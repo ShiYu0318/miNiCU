@@ -1,9 +1,11 @@
 # miNiCU 小中大
 
-> mini + NCU
-> Small --> Midium --> Large
+## "Small tools lead to Midium integration, eventually building a Large campus ecosystem."
 
-"Small things lead to Midium integration, eventually building a Large campus ecosystem."
+> - mini + NCU
+> - 小型的中大
+> - Small --> Midium --> Large
+
 
 ```txt
 miNiCU
