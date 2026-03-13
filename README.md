@@ -1,11 +1,11 @@
 # miNiCU 小中大
 
-## "Small tools lead to Midium integration, eventually building a Large campus ecosystem."
+> - miNiCU == mini + NCU
+> - 小型的中大，大型的專案
 
-> - mini + NCU
-> - 小型的中大
-> - Small --> Midium --> Large
+## Small --> Midium --> Large
 
+> Small tools lead to Midium integration, eventually building a Large campus ecosystem.
 
 ```txt
 miNiCU
